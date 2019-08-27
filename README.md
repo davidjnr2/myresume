@@ -10,7 +10,8 @@
 * **Using cloudinary image hosting services to add my image to my resume** 
      * <img src = "https://res.cloudinary.com/davidjnr2/image/upload/v1566746298/Deejay_nydsty.jpg" width="300" height="300" alt="Profile picture">
   
-* **Pushing my resume to github and adding a README to the repo
+* **Pushing my resume to github and adding a README to the repo**
+    * <a href = "https://github.com/davidjnr2/Startng-HTML-only-CV"> My Startng HTML-only CV </a>
      
 
 ### Technologies/Tools employed
@@ -24,7 +25,7 @@
 #### Appreciation
   * **Mark Essien** - CEO, hotels.ng and Co-Founder, HNG Internship - <a href ="https://twitter.com/markessien"> @markessien</a>, <a href = "https://hotels.ng">Hotels</a>
   * **Seyi Onifade** - Project Director and CEO (Start.ng and HNG internship) - <a href ="https://twitter.com/xyluz">@xyluz</a>
-  * **All startng Mentors and fellow interns** - Mercy Ikpe, SkylaNG86(HTML tutor), Ebuka Peter (Git and Github Tutor), Motun, Akan etc.. - <a href = "https://startng.slack.com"> startng workspace </a>
+  * **All startng Mentors and fellow interns** - Mercy Ikpe, SkylaNG86(HTML tutor), Ebuka Peter (Git and Github Tutor), Motun, Akan etc.. - <a href = "https://startng.slack.com"> Startng Slack Workspace </a>
 
 ### <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png"><img class="emoji" alt="raised_hands" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png"></g-emoji> Contribution
  *To help improve this work,* 
