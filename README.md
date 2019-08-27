@@ -5,7 +5,7 @@
 ## Project sub-Task:
 
 * **Making a post on twitter and appreciating Flutterwave - Sponsors of the Start.ng pre-internship and HNG internship 2019**
-     * <a href= "https://twitter.com/davidjnr2/status/1164935567819313152"> "Thank you Flutterwave" </a>
+     * <a href= "https://twitter.com/davidjnr2/status/1164935567819313152"> Thank you Flutterwave </a>
 
 * **Using cloudinary image hosting services to add my image to my resume** 
      * <img src = "https://res.cloudinary.com/davidjnr2/image/upload/v1566746298/Deejay_nydsty.jpg" width="300" height="300" alt="Profile picture">
@@ -22,9 +22,9 @@
   
 
 #### Appreciation
-  * **Mark Essien** - CEO, hotels.ng and Co-Founder, HNG Internship - https://twitter.com/markessien, https://hotels.ng
-  * **Seyi Onifade** - Project Director and CEO (Start.ng and HNG internship) - https://twitter.com/xyluz
-  * **All startng Mentors and fellow interns** - Mercy Ikpe, SkylaNG86(HTML tutor), Ebuka Peter (Git and Github Tutor), Motun, Akan etc.. - https://startng.slack.com
+  * **Mark Essien** - CEO, hotels.ng and Co-Founder, HNG Internship - <a href ="https://twitter.com/markessien"> @markessien</a>, <a href = "https://hotels.ng">Hotels</a>
+  * **Seyi Onifade** - Project Director and CEO (Start.ng and HNG internship) - <a href ="https://twitter.com/xyluz">@xyluz</a>
+  * **All startng Mentors and fellow interns** - Mercy Ikpe, SkylaNG86(HTML tutor), Ebuka Peter (Git and Github Tutor), Motun, Akan etc.. - <a href = "https://startng.slack.com"> startng workspace </a>
 
 ### <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png"><img class="emoji" alt="raised_hands" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png"></g-emoji> Contribution
  *To help improve this work,* 
