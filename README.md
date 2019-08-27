@@ -12,6 +12,7 @@
   
 * **Pushing my resume to github and adding a README to the repo
      
+
 ### Technologies/Tools employed
   * HTML (HyperText Markup Language)
   * Google
@@ -19,6 +20,7 @@
   * Visual Studio Code Editor
   * Git and Github
   
+
 #### Appreciation
   * **Mark Essien** - CEO, hotels.ng and Co-Founder, HNG Internship - https://twitter.com/markessien, https://hotels.ng
   * **Seyi Onifade** - Project Director and CEO (Start.ng and HNG internship) - https://twitter.com/xyluz
