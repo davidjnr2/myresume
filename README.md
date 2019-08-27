@@ -25,3 +25,10 @@
   * **Mark Essien** - CEO, hotels.ng and Co-Founder, HNG Internship - https://twitter.com/markessien, https://hotels.ng
   * **Seyi Onifade** - Project Director and CEO (Start.ng and HNG internship) - https://twitter.com/xyluz
   * **All startng Mentors and fellow interns** - Mercy Ikpe, SkylaNG86(HTML tutor), Ebuka Peter (Git and Github Tutor), Motun, Akan etc.. - https://startng.slack.com
+
+### <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png"><img class="emoji" alt="raised_hands" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png"></g-emoji> Contribution
+ *To help improve this work,* 
+   * Open pull request with improvements
+   * Spread the word
+   * Reach out with any feedback on <a href="https://twitter.com/davidjnr2" rel="nofollow"><img src= "https://user-images.githubusercontent.com/25167635/63774673-a991ba80-c8d5-11e9-99c9-3cb64201e5cc.JPG" alt="Twitter URL" data-canonical-src="https://img.shields.io/twitter/url/https/twitter.com/davidjnr2.svg?style=social&amp;label=Follow%20%40davidjnr2" style="max-width:100%;"></a>
+
