@@ -5,7 +5,7 @@
 ## Project sub-Task:
 
 * **Making a post on twitter and appreciating Flutterwave - Sponsors of the Start.ng pre-internship and HNG internship 2019**
-     * https://twitter.com/davidjnr2/status/1164935567819313152
+     * <a href= "https://twitter.com/davidjnr2/status/1164935567819313152"> "Thank you Flutterwave" </a>
 
 * **Using cloudinary image hosting services to add my image to my resume** 
      * <img src = "https://res.cloudinary.com/davidjnr2/image/upload/v1566746298/Deejay_nydsty.jpg" width="300" height="300" alt="Profile picture">
