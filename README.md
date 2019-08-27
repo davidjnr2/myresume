@@ -22,7 +22,7 @@
   * Git and Github
   
 
-#### Appreciation
+### Appreciation
   * **Mark Essien** - CEO, hotels.ng and Co-Founder, HNG Internship - <a href ="https://twitter.com/markessien"> @markessien</a>, <a href = "https://hotels.ng">Hotels</a>
   * **Seyi Onifade** - Project Director and CEO (Start.ng and HNG internship) - <a href ="https://twitter.com/xyluz">@xyluz</a>
   * **All startng Mentors and fellow interns** - Mercy Ikpe, SkylaNG86(HTML tutor), Ebuka Peter (Git and Github Tutor), Motun, Akan etc.. - <a href = "https://startng.slack.com"> Startng Slack Workspace </a>
