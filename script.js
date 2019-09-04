@@ -7,7 +7,7 @@ for (var i = 0; i < forms.length; i++) {
 // Validate the field
 let hasError = (field) => {
     // Don't validate submits, buttons, file and reset inputs, and disabled fields
-    if (field.disabled || field.type === 'file' || field.type === 'reset' || field.type === 'submit' || field.type === 'button') return true;
+    if (field.disabled || field.type === 'file' || field.type === 'reset' || field.type === 'submit' || field.type === 'button') return;
 
     // Get validity
     let validity = field.validity;
