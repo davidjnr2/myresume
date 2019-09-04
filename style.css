@@ -28,7 +28,14 @@ a {
   color: #24254b;
   text-decoration: none;
 }
-
+a:active,
+a:focus,
+a:hover {
+    background-color: none;
+    border-color: none;
+    color: #f50000;
+    text-decoration: none;
+}
 .container {
   max-width: 960px;
   margin: 40px auto;
@@ -67,9 +74,15 @@ img.avatar {
 }
 
 .my-title {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 300;
-  color: #236FB2;
+  color:rgb(12, 9, 238);
+}
+#title {
+  font-size: 18px;
+  font-weight: 500;
+  color:#f50000
+
 }
 .professional, h4 {
   padding : 0;
@@ -119,7 +132,7 @@ img.avatar {
   justify-content: space-between;
   margin-bottom: 20px;
   font-size: 18px;
-  color: #236FB2
+  color:rgb(12, 9, 238);
 }
 
 .job-title-con {
@@ -127,7 +140,7 @@ img.avatar {
   justify-content: space-between;
   margin-bottom: 20px;
   
-  color: #236FB2
+  color:rgb(12, 9, 238);
   
 }
 .job-title-con {
@@ -154,7 +167,7 @@ img.avatar {
 
 .reference {
   font-size: 18px;
-  color: #236FB2
+  color:rgb(12, 9, 238);
 }
 
 .reference-details {
@@ -239,8 +252,8 @@ select {
 .button:active,
 .button:focus,
 .button:hover {
-    background-color: #005580;
-    border-color: #005580;
+    background-color: #f50000;
+    border-color:none;
     color: #ffffff;
     text-decoration: none;
 }
@@ -252,9 +265,9 @@ select {
 /**
  * Errors
  */
-.error {
+/*.error {
     border-color: red;
-}
+}*/
 
 .error-message {
     color: red;

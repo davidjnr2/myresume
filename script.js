@@ -1,18 +1,16 @@
+//code credit : http://www.csstricks.com
 // Add the novalidate attribute when the JS loads
 var forms = document.querySelectorAll('.validate');
 for (var i = 0; i < forms.length; i++) {
     forms[i].setAttribute('novalidate', true);
 }
-
-
 // Validate the field
-var hasError = function (field) {
-
+let hasError = (field) => {
     // Don't validate submits, buttons, file and reset inputs, and disabled fields
-    if (field.disabled || field.type === 'file' || field.type === 'reset' || field.type === 'submit' || field.type === 'button') return;
+    if (field.disabled || field.type === 'file' || field.type === 'reset' || field.type === 'submit' || field.type === 'button') return true;
 
     // Get validity
-    var validity = field.validity;
+    let validity = field.validity;
 
     // If valid, return null
     if (validity.valid) return;
@@ -22,13 +20,11 @@ var hasError = function (field) {
 
     // If not the right type
     if (validity.typeMismatch) {
-
-        // Email
-        if (field.type === 'email') return 'Please enter an email address.';
+      // Email
+        if (field.type === 'email') return 'Please enter a valid email address.';
 
         // URL
-        if (field.type === 'url') return 'Please enter a URL.';
-
+        //if (field.type === 'url') return 'Please enter a URL.';
     }
 
     // If too short
@@ -67,7 +63,7 @@ var hasError = function (field) {
 
 
 // Show an error message
-var showError = function (field, error) {
+let showError = (field, error)=> {
 
     // Add error class to field
     field.classList.add('error');
@@ -161,9 +157,7 @@ var removeError = function (field) {
     message.innerHTML = '';
     message.style.display = 'none';
     message.style.visibility = 'hidden';
-
 };
-
 
 // Listen to all blur events
 document.addEventListener('blur', function (event) {
