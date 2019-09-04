@@ -1,6 +1,6 @@
 # Project Title
 
-**A 2019 Startng pre-internship task to create an HTML, CSS and JS Resume with a contact form and published on github pages**
+**A 2019 Startng pre-internship task to first create an HTML only CV and then update it with CSS and JS with a contact form and published on github pages**
 
 ## Project sub-Task:
 
