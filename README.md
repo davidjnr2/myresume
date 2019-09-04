@@ -1,6 +1,6 @@
 # Project Title
 
-**A 2019 Startng pre-internship task to create an HTML-only Resume**
+**A 2019 Startng pre-internship task to create an HTML, CSS and JS Resume with a contact form and published on github pages**
 
 ## Project sub-Task:
 
@@ -13,9 +13,21 @@
 * **Pushing my resume to github and adding a README to the repo**
     * <a href = "https://github.com/davidjnr2/Startng-HTML-only-CV"> My Startng HTML-only CV </a>
      
+* **Updated CV with some CSS (no frameworks, no js)**
+    * Pushed code to github, using a different branch
+    * Created pull request, without merging.
+    
+* **Updated CV page with a contact form.**
+    * The contact form has name, email, title and message
+    * The contact form validates to check if the user:
+        * Enters the correct format of data for each field
+        * Enters at least 4 characters in the name field
+        * Enters at least 20 characters for the message
+  
+* **Host your contact form on free hosting, preferably, github pages**.
 
 ### Technologies/Tools employed
-  * HTML (HyperText Markup Language)
+  * HTML (HyperText Markup Language), CSS (Cascading Style Sheets), Javascript 
   * Google
   * Notepad 
   * Visual Studio Code Editor
@@ -25,7 +37,7 @@
 ### Appreciation
   * **Mark Essien** - CEO, hotels.ng and Co-Founder, HNG Internship - <a href ="https://twitter.com/markessien"> @markessien</a>, <a href = "https://hotels.ng">Hotels</a>
   * **Seyi Onifade** - Project Director and CEO (Start.ng and HNG internship) - <a href ="https://twitter.com/xyluz">@xyluz</a>
-  * **All startng Mentors and fellow interns** - Mercy Ikpe, SkylaNG86(HTML tutor), Ebuka Peter (Git and Github Tutor), Motun, Akan etc.. - <a href = "https://startng.slack.com"> Startng Slack Workspace </a>
+  * **Startng Mentors, #Team_Kigali and fellow interns** - Mercy Ikpe, SkylaNG86(HTML tutor), Ebuka Peter (Git and Github Tutor), Motun, Akan etc.. - <a href = "https://startng.slack.com"> Startng Slack Workspace </a>
 
 ### <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png"><img class="emoji" alt="raised_hands" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png"></g-emoji> Contribution
  *To help improve this work,* 
