@@ -98,10 +98,12 @@ img.avatar {
   display: flex;
   align-items: center;
   flex: 1;
+  
 }
 
 .link-item svg {
   margin-right: 6px;
+  color:rgb(12, 9, 238);
 }
 
 .section-t {
@@ -114,6 +116,7 @@ img.avatar {
   grid-gap: 20px;
   padding: 24px 0;
   border-bottom: 1px solid lightgrey;
+  
 }
 /**Experience*/
 
@@ -220,12 +223,13 @@ label {
 }
 
 input,
-select {
+select,
+textarea {
     display: inline-block;
     font-size: 1em;
     margin-bottom: 1em;
     padding: 0.25em 0.5em;
-    width: 100%;
+    width: 70%;
 }
 
 [type="checkbox"],
@@ -235,8 +239,8 @@ select {
 }
 
 .button {
-    background-color: #0088cc;
-    border: 1px solid #0088cc;
+    background-color: rgb(12, 9, 238);
+    border: 1px solid rgb(12, 9, 238);
     border-radius: 1px;
     color: #ffffff;
     display: inline-block;
@@ -265,9 +269,9 @@ select {
 /**
  * Errors
  */
-/*.error {
+.error {
     border-color: red;
-}*/
+}
 
 .error-message {
     color: red;
